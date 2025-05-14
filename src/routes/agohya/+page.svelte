@@ -75,7 +75,7 @@
   />
   <meta
     property="og:image"
-    content="https://nbrglm.com/images/agohya-desktop.jpg"
+    content="https://nbrglm.com/images/agohya-desktop.png"
   />
 
   <!-- Twitter -->
