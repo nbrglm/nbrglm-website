@@ -75,7 +75,7 @@
   />
   <meta
     property="og:image"
-    content="https://nbrglm.com/images/agohya-desktop.png"
+    content="https://nbrglm.com/images/logos/agohya-logo.png"
   />
 
   <!-- Twitter -->
@@ -88,8 +88,28 @@
   />
   <meta
     property="twitter:image"
-    content="https://nbrglm.com/images/agohya-desktop.jpg"
+    content="https://nbrglm.com/images/logos/agohya-logo.jpg"
   />
+
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://nbrglm.com/agohya" />
+  <meta name="twitter:title" content="Agohya OS | Open. Elegant. Yours." />
+  <meta
+    name="twitter:description"
+    content="Agohya is a refined, open-source operating system that brings power, security, and modern design to everyone."
+  />
+  <meta
+    name="twitter:image"
+    content="https://nbrglm.com/images/logos/agohya-logo.jpg"
+  />
+  <meta name="twitter:site" content="@nbrglm" />
+  <meta name="twitter:creator" content="@nbrglm" />
+  <meta name="twitter:image:alt" content="Agohya OS" />
+  <meta name="twitter:label1" content="Company:" />
+  <meta name="twitter:data1" content="NBRGLM" />
+  <meta name="twitter:label2" content="Product:" />
+  <meta name="twitter:data2" content="Operating System" />
 
   <!-- WhatsApp -->
   <meta property="og:site_name" content="NBRGLM" />
