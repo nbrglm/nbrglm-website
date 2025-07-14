@@ -26,7 +26,7 @@
   />
   <meta
     property="og:image"
-    content="https://nbrglm.com/images/agohya-desktop.png"
+    content="https://nbrglm.com/images/logos/agohya-logo.png"
   />
 
   <!-- Twitter -->
@@ -42,7 +42,7 @@
   />
   <meta
     property="twitter:image"
-    content="https://nbrglm.com/images/agohya-desktop.png"
+    content="https://nbrglm.com/images/logos/agohya-logo.png"
   />
 
   <!-- WhatsApp -->

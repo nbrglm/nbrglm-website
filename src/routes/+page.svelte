@@ -66,6 +66,35 @@
   });
 </script>
 
+<svelte:head>
+  <title>NBRGLM Developers</title>
+  <meta
+    name="description"
+    content="NBRGLM Developers is a software development company that builds secure, scalable, and reliable software to power what's next."
+  />
+  <meta property="og:title" content="NBRGLM Developers" />
+  <meta
+    property="og:description"
+    content="NBRGLM Developers is a software development company that builds secure, scalable, and reliable software to power what's next."
+  />
+  <meta property="og:image" content="https://nbrglm.com/images/logo.png" />
+  <meta property="og:url" content="https://nbrglm.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="NBRGLM Developers" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="NBRGLM Developers" />
+  <meta
+    name="twitter:description"
+    content="NBRGLM Developers is a software development company that builds secure, scalable, and reliable software to power what's next."
+  />
+  <meta name="twitter:image" content="https://nbrglm.com/images/logo.png" />
+  <meta name="twitter:url" content="https://nbrglm.com" />
+  <meta name="twitter:site" content="@nbrglm" />
+  <meta name="twitter:creator" content="@nbrglm" />
+  <link rel="icon" href="/favicon.png" />
+  <link rel="apple-touch-icon" href="/favicon.png" />
+</svelte:head>
+
 <section
   class="h-dvh flex flex-col justify-center items-center gap-2 p-4 md:p-8"
 >

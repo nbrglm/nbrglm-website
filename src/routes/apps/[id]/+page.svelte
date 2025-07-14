@@ -36,7 +36,7 @@
   />
   <meta
     property="og:image"
-    content={app?.logoUrl || "https://nbrglm.com/logo.png"}
+    content={app?.logoUrl || "https://nbrglm.com/images/logo.png"}
   />
 
   <!-- Twitter -->
